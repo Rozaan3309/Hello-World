@@ -1,2 +1,3 @@
 # Hello-World
-New Start!
+
+I'm new at github and currently learning website programming.
